@@ -1,0 +1,50 @@
+.button{
+
+    height:3em;
+    background-color: #74d60c  ;
+    border:none;
+}
+.button img{
+    height:2em;
+}
+ .first-section{
+
+    margin-bottom:20px;
+} 
+.jacket img{
+    height:400px;
+    padding:5px;
+}
+.cart h2{
+    color:goldenrod;
+    font-weight:large;
+}
+.cart-button{
+
+    margin-left:100px;
+   
+    background-color:hsla(89, 88%, 41%, 0.753);
+    border:none;
+
+}
+.cart-button img{
+    height:2em;
+}
+.last-cart{
+    height:100px;
+    margin:25px;
+
+}
+.last-cart img{
+    height:80px;
+}
+.penguin-card{
+    border:0;
+}
+.penguin-card-footer{
+    border:0;
+}
+.heading{
+    font-family: 'Roboto', sans-serif;
+    color:rgba(0, 0, 97, 0.829);
+}
